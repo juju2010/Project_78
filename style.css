@@ -1,0 +1,32 @@
+
+body{
+    text-align:center;
+    background-color:#0844e9;
+  }  
+  
+  #firstP{
+    word-spacing: 10px;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 80px;
+  }
+  #secondP{
+    word-spacing: 10px;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 30px;
+  }
+  #membertext{
+    font-size:50px;
+  }
+  
+  
+  #members
+  {
+    border-style:solid;
+    border-color:#0400e6;
+    border: 1px;
+    border-radius: 80px;
+    padding: 5px;
+    width: 450px;
+  }
